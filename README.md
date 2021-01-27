@@ -1,4 +1,6 @@
 # ESP8266_FirebaseJson
 
 
-A
+Send Data go to Firebase Realtime Database or RTDB
+
+Json add data Other
